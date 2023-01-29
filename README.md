@@ -21,7 +21,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT] (https://choosealicense.com/licenses/mit/)
 
-![Kodluyoruz Gorsel](https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fsivilalan.com%2F2019%2F03%2F05%2Fkodluyoruz-akademi-egitmenlerini-ariyor%2F&psig=AOvVaw08qSVJHs8HFkAShF7DfKaT&ust=1675094794297000&source=images&cd=vfe&ved=0CBIQ3YkBahcKEwiIz9vDlO38AhUAAAAAHQAAAAAQEA)
+![Kodluyoruz Gorsel](https://avatars.githubusercontent.com/u/30476529?s=280&v=4)
 
 
 
